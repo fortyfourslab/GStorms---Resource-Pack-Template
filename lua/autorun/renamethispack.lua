@@ -124,7 +124,7 @@ local resourcePack = {
 
 		particle_parameters = {size_multiplier = 2.25, count_multiplier = 1, lifetime = 9},
 
-		height = -1000,
+		height = -1100,
 		fall_speed = 0,
 
 		lifetime_override = true,
